@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "@azhder/eslint-config-azder": "^0.0.3",
+        "eslint": "^3.19.0"
+    }
+}
